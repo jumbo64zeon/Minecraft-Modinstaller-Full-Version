@@ -239,3 +239,6 @@ This repository serves as the official landing page for Minecraft Modinstaller. 
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Minecraft Modinstaller today!**
+
+---
+**Last updated:** 2026-09-10 19:30:15 UTC
